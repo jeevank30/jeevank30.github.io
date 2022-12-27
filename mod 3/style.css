@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: rgb(176, 210, 65);
+color: #0bbc2e;
+}
+body{
+	background-color: #157f90;
+	color: white;
+}
+.center{
+	width: 90%;
+	background-color: rgb(237, 133, 133);
+
+}
+.container
+{
+	background-color: rgb(238, 140, 140);
+}
+.text-center{
+	font-size: 30px;
+    color: #0b0b0b;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    background-color: antiquewhite;
+    margin: 100px;
+}
+
+h2{
+	text-align: right;
+}
+#myNavbar ul li a {
+	color: #0b0b0b;
+    text-align: center;
+}
+.navbar-brand{
+font-size: 30px;
+color: #d54114;	
+}
+a.navbar-brand{
+    color: #d54114;  
+}
+
+#chickstory{
+    text-align: center;
+}
+
+
+.navbar-toggle{
+	border: 2px solid white;
+	margin-right: 25px;
+}
+
+.navbar-brand:hover{
+	color: white;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
+.icon-bar{
+	background-color: white;
+}
+
+
+
